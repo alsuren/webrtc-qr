@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/alsuren/webrtc-qr/precache-manifest.bc45b02573f0f8721d018e46e30371ef.js"
+  "/webrtc-qr/precache-manifest.7e195cf25a8f1aab39d78e1d198263a4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/alsuren/webrtc-qr/index.html", {
+workbox.routing.registerNavigationRoute("/webrtc-qr/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
