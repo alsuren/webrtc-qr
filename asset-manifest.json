@@ -1,14 +1,14 @@
 {
-  "main.css": "/webrtc-qr/static/css/main.64941454.chunk.css",
-  "main.js": "/webrtc-qr/static/js/main.74d4e750.chunk.js",
-  "main.js.map": "/webrtc-qr/static/js/main.74d4e750.chunk.js.map",
-  "static/js/1.030046bc.chunk.js": "/webrtc-qr/static/js/1.030046bc.chunk.js",
-  "static/js/1.030046bc.chunk.js.map": "/webrtc-qr/static/js/1.030046bc.chunk.js.map",
+  "main.css": "/webrtc-qr/static/css/main.c49e82b7.chunk.css",
+  "main.js": "/webrtc-qr/static/js/main.a1068bbe.chunk.js",
+  "main.js.map": "/webrtc-qr/static/js/main.a1068bbe.chunk.js.map",
+  "static/js/1.43bcceb7.chunk.js": "/webrtc-qr/static/js/1.43bcceb7.chunk.js",
+  "static/js/1.43bcceb7.chunk.js.map": "/webrtc-qr/static/js/1.43bcceb7.chunk.js.map",
   "runtime~main.js": "/webrtc-qr/static/js/runtime~main.8fb160ce.js",
   "runtime~main.js.map": "/webrtc-qr/static/js/runtime~main.8fb160ce.js.map",
   "static/media/chime.mp3": "/webrtc-qr/static/media/chime.972c97d9.mp3",
-  "static/css/main.64941454.chunk.css.map": "/webrtc-qr/static/css/main.64941454.chunk.css.map",
+  "static/css/main.c49e82b7.chunk.css.map": "/webrtc-qr/static/css/main.c49e82b7.chunk.css.map",
   "index.html": "/webrtc-qr/index.html",
-  "precache-manifest.7e195cf25a8f1aab39d78e1d198263a4.js": "/webrtc-qr/precache-manifest.7e195cf25a8f1aab39d78e1d198263a4.js",
+  "precache-manifest.e09541bbe28b2b1172ea9b54e450cc8a.js": "/webrtc-qr/precache-manifest.e09541bbe28b2b1172ea9b54e450cc8a.js",
   "service-worker.js": "/webrtc-qr/service-worker.js"
 }
