@@ -1,14 +1,14 @@
 {
-  "main.css": "/webrtc-qr/static/css/main.697d64b4.chunk.css",
-  "main.js": "/webrtc-qr/static/js/main.badacab0.chunk.js",
-  "main.js.map": "/webrtc-qr/static/js/main.badacab0.chunk.js.map",
-  "static/js/1.3aae96cc.chunk.js": "/webrtc-qr/static/js/1.3aae96cc.chunk.js",
-  "static/js/1.3aae96cc.chunk.js.map": "/webrtc-qr/static/js/1.3aae96cc.chunk.js.map",
-  "runtime~main.js": "/webrtc-qr/static/js/runtime~main.8fb160ce.js",
-  "runtime~main.js.map": "/webrtc-qr/static/js/runtime~main.8fb160ce.js.map",
-  "static/media/chime.mp3": "/webrtc-qr/static/media/chime.972c97d9.mp3",
-  "static/css/main.697d64b4.chunk.css.map": "/webrtc-qr/static/css/main.697d64b4.chunk.css.map",
-  "index.html": "/webrtc-qr/index.html",
-  "precache-manifest.d456ae97a4198fd177d79ae5ce53423a.js": "/webrtc-qr/precache-manifest.d456ae97a4198fd177d79ae5ce53423a.js",
-  "service-worker.js": "/webrtc-qr/service-worker.js"
+  "main.css": "https://x.github.io/webrtc-qr/static/css/main.697d64b4.chunk.css",
+  "main.js": "https://x.github.io/webrtc-qr/static/js/main.69ef68bd.chunk.js",
+  "main.js.map": "https://x.github.io/webrtc-qr/static/js/main.69ef68bd.chunk.js.map",
+  "static/js/1.e065ffb7.chunk.js": "https://x.github.io/webrtc-qr/static/js/1.e065ffb7.chunk.js",
+  "static/js/1.e065ffb7.chunk.js.map": "https://x.github.io/webrtc-qr/static/js/1.e065ffb7.chunk.js.map",
+  "runtime~main.js": "https://x.github.io/webrtc-qr/static/js/runtime~main.b52424f0.js",
+  "runtime~main.js.map": "https://x.github.io/webrtc-qr/static/js/runtime~main.b52424f0.js.map",
+  "static/media/chime.mp3": "https://x.github.io/webrtc-qr/static/media/chime.972c97d9.mp3",
+  "static/css/main.697d64b4.chunk.css.map": "https://x.github.io/webrtc-qr/static/css/main.697d64b4.chunk.css.map",
+  "index.html": "https://x.github.io/webrtc-qr/index.html",
+  "precache-manifest.aa4361a9bac206f30d6b3e7fd2f83435.js": "https://x.github.io/webrtc-qr/precache-manifest.aa4361a9bac206f30d6b3e7fd2f83435.js",
+  "service-worker.js": "https://x.github.io/webrtc-qr/service-worker.js"
 }
