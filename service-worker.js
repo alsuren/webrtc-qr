@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "https://x.github.io/webrtc-qr/precache-manifest.aa4361a9bac206f30d6b3e7fd2f83435.js"
+  "/webrtc-qr/precache-manifest.d456ae97a4198fd177d79ae5ce53423a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://x.github.io/webrtc-qr/index.html", {
+workbox.routing.registerNavigationRoute("/webrtc-qr/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
